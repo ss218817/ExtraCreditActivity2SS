@@ -1,2 +1,3 @@
-<img src= "FormattedDocument.png"
-<img src= "FormattedDocument2.png"
+<img src= "FormattedDocument.png">
+<img src= "FormattedDocument2.png">
+<img src= "GeographicInquiry.png">
